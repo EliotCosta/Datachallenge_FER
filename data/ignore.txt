@@ -1,0 +1,7 @@
+Lien pour dossier avec nouvelles images: 
+
+Sauvegardé en format numpy, 
+
+images.npy, classes.npy ---> fichier X,Y avec les données de fer-2013
+
+augmented_images.npy, augmented_labels.npy ---> fichier X,y du datachallenge avec augmentation des données
